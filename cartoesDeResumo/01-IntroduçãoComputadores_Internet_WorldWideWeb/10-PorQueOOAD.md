@@ -7,6 +7,9 @@ Em projetos pequenos, você pode partir direto para o pseudocódigo. Em sistemas
   - **Exemplo lúdico:** É como tentar erguer um arranha-céu sem planta: sem mapa arquitetônico, a estrutura desaba no meio da obra.
 
 
+  - `O que é OOAD?:` OOAD é um processo que ajuda a projetar e implementar sistemas complexos de forma mais eficiente e segura.
+
+
 ## 1.2 Vantagens do OOAD 🔍📐
 OOAD detalha a análise de requisitos e o design orientado a objetos antes de escrever qualquer linha de código, reduzindo riscos, custos e retrabalho.
 
@@ -37,13 +40,14 @@ Pseudocódigo é ótimo para lógica simples; OOAD usa diagramas UML para comuni
   - **Exemplo lúdico:** Pseudocódigo é um esboço de quadrinho; OOAD/UML é a história em quadrinhos final, com balões de diálogo e cenas detalhadas.
 
 
-```pseudocode
-// Exemplo de fluxo de análise
-requisitos = coletarDocumentos()
-casosDeUso = mapearRequisitos(requisitos)
-classes = identificarObjetos(casosDeUso)
-diagramasUML = criarDiagramas(classes, casosDeUso)
-```
+  ```pseudocode
+  // Exemplo de fluxo de análise
+  requisitos = coletarDocumentos()
+  casosDeUso = mapearRequisitos(requisitos)
+  classes = identificarObjetos(casosDeUso)
+  diagramasUML = criarDiagramas(classes, casosDeUso)
+  ```
+
 
 ## 📊 Capítulo 3: Unified Modeling Language (UML)
 
